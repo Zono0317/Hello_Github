@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+int main() {
 	cout << "Hello Github!!\n";
+	cout << "Better Edition\n";
 	return 0;
 }
